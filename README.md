@@ -20,7 +20,7 @@ The primary objective of this dashboard is to:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ✅ Executive KPI Overview
 
@@ -123,25 +123,6 @@ Some valuable insights generated from the dashboard include:
 - Conditional Formatting
 - Bookmarks
 - Report Tooltips
-
----
-
-## 📸 Dashboard Preview
-
-> ![Uploading Sales_dashboard.png…]()
-
-## 📁 Project Structure
-
-Sales-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── README.md
-├── images/
-│ ├── Dashboard.png
-│ ├── Sales.png
-│ └── Customer.png
-
 ---
 
 ## 💡 Skills Demonstrated
